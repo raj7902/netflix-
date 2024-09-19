@@ -2,6 +2,6 @@
 What it is
 A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepage. Built with:
 
-HTML
-CSS
+HTML,
+CSS,
 Vanilla JS - ES6
